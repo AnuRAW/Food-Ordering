@@ -1,0 +1,168 @@
+.navbar-brand img{
+   height: 40px;
+   width: 80px;
+}
+.nav-link{
+    font-size: 1rem;
+}
+.navbar{
+    height: 45px;
+    width: 100%;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#Home{
+    display: flex;
+    flex-direction: column;
+    padding: 3px 200px;
+    justify-content: center;
+    align-items: center;
+    background:url(./Image/bgc1.jpg);
+}
+#Home h1{
+    color: white;
+    text-align: center;
+}
+#Home p{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.pri{
+    font-size: 3rem;
+    padding: 12px;
+    margin-top: 50px;
+}
+.btn{
+    padding: 6px 20px;
+    border: 3px solid black;
+    color: black;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    background-color: white;
+}
+.btn:hover{
+    border: 3px solid white;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+}
+#our{
+    margin-bottom: 50px;
+}
+#our img{
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+.center{
+    text-align: center;
+}
+#h2{
+    font-size: 50px;
+    margin-left: 40vw;
+    padding-top: 30px;
+}
+.item{
+    margin: 20px 20px 10px 20px;
+    padding: 20px;
+    font-style: oblique;
+}
+#first{
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+}
+#Computer{
+    border: 2px solid black;
+    border-radius: 20px;
+   
+}
+#Fruit{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#Phone{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+#client section{
+ height: 544px;
+ 
+}
+.client{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 200px;
+}
+.primary{
+    background-image: url(./Image/bgc2.jpg);
+}
+   .pri2{
+    color: rgb(219, 241, 241);
+    font-size: 50px;
+    font-style:italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.cli{
+    padding: 34px;
+}
+.cli img{
+    height: 100px;
+}
+
+#contact{
+  background-color: black;
+}
+#h3{
+    font-style:italic;
+    font-size: 3rem;
+    margin-left: 40vw;
+  padding-top: 50px;
+  color: white;
+}
+#form{
+ margin : 30px;
+ margin-left: 30vw;
+ background-color: black;
+}
+.one{
+    position:absolute; 
+    width: 50vw;
+    background-color: black;
+    margin-right: 100px;  
+    color: white;
+}
+#five{
+width: 7vw;
+margin-left: 30vw;
+color: black;
+border-radius: 10%;
+margin-bottom: 30px;
+}
+#five:hover{
+background-color: black;
+color: white;
+border: solid white;
+}
+#Footer{
+    background-color: grey;
+    height: 60px;
+    width: 100%;
+}
+
+#Footer p{
+    color: white;
+    font-size: 1rem;
+    margin-left: 40vw;
+    padding-top: 30px;
+}
