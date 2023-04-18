@@ -20,7 +20,7 @@
     padding: 3px 200px;
     justify-content: center;
     align-items: center;
-    background:url(./Image/bgc1.jpg);
+    background:url(./bgc1.jpg);
 }
 #Home h1{
     color: white;
@@ -102,7 +102,7 @@
     padding: 3px 200px;
 }
 .primary{
-    background-image: url(./Image/bgc2.jpg);
+    background-image: url(./bgc2.jpg);
 }
    .pri2{
     color: rgb(219, 241, 241);
